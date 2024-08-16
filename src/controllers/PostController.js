@@ -159,6 +159,5 @@ module.exports ={
     likedByuser,
     createComment,
     getComment,
-    getPostByDate,
-    getuserbycomment,
+    getPostByDate, 
 }
