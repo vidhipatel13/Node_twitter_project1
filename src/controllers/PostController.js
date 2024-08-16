@@ -160,4 +160,5 @@ module.exports ={
     createComment,
     getComment,
     getPostByDate,
+    getuserbycomment,
 }
